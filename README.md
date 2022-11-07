@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gonzaswx
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Golang
-- I already know: Phyton, Js, and a little of React
+- 🌱 I’m currently learning Golang and Rust
+- Phyton, Js, and a little of React
 - 📫 How to reach me gonzaswx@gmail.com
 
 <!---
