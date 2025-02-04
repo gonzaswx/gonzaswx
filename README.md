@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gonzaswx
-- 👀 I’m interested in programming
+- 👀 I’m a Software Developer and Data Analyst
 - 🌱 I’m currently learning Golang and Rust
-- Phyton, Js, and a little of React
+- Phyton, Js, SQL, C#, C++, PHP, HTML, Css and some others
 - 📫 How to reach me gonzaswx@gmail.com
 
 <!---
